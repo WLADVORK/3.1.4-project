@@ -27,8 +27,8 @@ html {
 }
 
 .page__upperMenu {
-    margin-left: 16px;
-    margin-right: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
 }
 
 .upperMenu {
@@ -201,8 +201,8 @@ html {
     }
 
     .page__upperMenu {
-        margin-left: 24px;
-        margin-right: 24px;
+        padding-left: 24px;
+        padding-right: 24px;
     }
 
     .upperMenu__divider--left {
@@ -294,6 +294,7 @@ html {
     
     .page__upperMenu {
         margin: 42px 32px 0;
+        padding:0;
     }
 
     .upperMenu {
